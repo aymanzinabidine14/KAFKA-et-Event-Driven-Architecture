@@ -18,3 +18,11 @@
 ![5](https://github.com/aymanzinabidine14/KAFKA-et-Event-Driven-Architecture/assets/128410611/ac7fab87-8078-4a2f-ba92-4df1b215f91f)
 
 ![6](https://github.com/aymanzinabidine14/KAFKA-et-Event-Driven-Architecture/assets/128410611/c472e5c7-faa9-48b8-81de-8ffb7e8dfd9a)
+
+![7](https://github.com/aymanzinabidine14/KAFKA-et-Event-Driven-Architecture/assets/128410611/fbeacc04-3f82-4871-9b10-16b4c80f0621)
+
+
+![8](https://github.com/aymanzinabidine14/KAFKA-et-Event-Driven-Architecture/assets/128410611/fe8cdf0f-357c-4fa3-9765-9c9711b34ff9)
+
+
+![9](https://github.com/aymanzinabidine14/KAFKA-et-Event-Driven-Architecture/assets/128410611/d95b0fff-432c-4f02-a1a7-eee39cb43ed7)
